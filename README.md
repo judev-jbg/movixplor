@@ -102,7 +102,7 @@ Compose recomposition → UI update
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/movixplor.git
+   git clone https://github.com/judev-jbg/movixplor.git
    ```
 
 2. Create a `local.properties` file in the project root (if it doesn't exist) and add your TMDB API key:
